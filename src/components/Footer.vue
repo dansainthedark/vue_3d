@@ -4,7 +4,7 @@
 </v-container>
 </template>
 
-<script lanbg="ts">
+<script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
 @Component
 export default class Footer extends Vue {
